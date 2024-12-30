@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Luis Araujo 👋
 
-<!--
-**ThapeloBoya/ThapeloBoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer in ascension 👨‍💻🚀  
+Cybersecurity lover 🔒  
+Currently learning React ❄️, Node.js, and Java  
+Love UX concepts ❤️🎨  
+Will power. Let's go! 💻
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/luisaraujo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Luis's GitHub Stats
+
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFilipeAraujo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
+
+---
+
+## Technologies
+
+- HTML, CSS, JavaScript
+- React, Node.js
+- Python, Flask, Express
+- Java, C, C++
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipeAraujo&layout=compact&theme=dracula)
