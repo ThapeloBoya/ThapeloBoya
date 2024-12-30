@@ -1,4 +1,4 @@
-# Hi, I'm Thapelo Boya 👋
+# Hi, I'm Thapelo B 👋
 
 A passionate Front-End Developer with a love for creating stunning, responsive, and user-centric websites.
 I thrive on turning complex problems into seamless, beautiful digital experiences. Let’s build something amazing together!" 💻✨
