@@ -5,10 +5,10 @@ I thrive on turning complex problems into seamless, beautiful digital experience
 
 👩‍💻 Technologies I work with:
 - HTML, CSS, JavaScript
-- React, Vue.js
+- React, Vue.js, Angular
 - Sass, Bootstrap, Tailwind CSS
 
-🌱 Currently learning: TypeScript, Next.js
+🌱 Currently learning: TypeScript, Next.js, C#, .net
 
 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/thapeloboya)
 
