@@ -1,30 +1,35 @@
-# Hi, I'm Luis Araujo 👋
+# Hi, I'm Thapelo Boya 👋
 
-Developer in ascension 👨‍💻🚀  
-Cybersecurity lover 🔒  
-Currently learning React ❄️, Node.js, and Java  
-Love UX concepts ❤️🎨  
-Will power. Let's go! 💻
+Passionate Front-End Developer based in Tembisa, Gauteng, South Africa 🇿🇦.  
+With over 4 years of experience in building responsive and user-friendly websites.
 
-[LinkedIn](https://www.linkedin.com/in/luisaraujo)  
-
----
-
-## Luis's GitHub Stats
-
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFilipeAraujo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
-
----
-
-## Technologies
-
+👩‍💻 Technologies I work with:
 - HTML, CSS, JavaScript
-- React, Node.js
-- Python, Flask, Express
-- Java, C, C++
+- React, Vue.js
+- Sass, Bootstrap, Tailwind CSS
+
+🌱 Currently learning: TypeScript, Next.js
+
+💼 You can connect with me on [LinkedIn](https://www.linkedin.com/thapeloboya)
+
+---
+
+## GitHub Stats
+
+![Thapelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThapeloBoya&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
 
 ---
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipeAraujo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThapeloBoya&layout=compact&theme=dracula)
+
+---
+
+## Connect with Me
+- LinkedIn: [Thapelo Boya](https://www.linkedin.com/thapeloboya)
+- Twitter: [@ThapeloBoya](https://twitter.com/ThapeloBoya) *(if applicable)*
+
+---
+
+### 💼 Open to opportunities in front-end development, UX/UI design, and tech collaborations.
