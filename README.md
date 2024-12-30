@@ -8,7 +8,7 @@ I thrive on turning complex problems into seamless, beautiful digital experience
 - React, Vue.js, Angular
 - Sass, Bootstrap, Tailwind CSS
 
-🌱 Currently learning: TypeScript, Next.js, C#, .net
+🌱 Currently learning: TypeScript, Next.js, C#, .Net
 
 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/thapeloboya)
 
