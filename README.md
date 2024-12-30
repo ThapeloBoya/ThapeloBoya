@@ -1,7 +1,7 @@
 # Hi, I'm Thapelo Boya 👋
 
-Passionate Front-End Developer based in Tembisa, Gauteng, South Africa 🇿🇦.  
-With over 4 years of experience in building responsive and user-friendly websites.
+A passionate Front-End Developer with a love for creating stunning, responsive, and user-centric websites.
+I thrive on turning complex problems into seamless, beautiful digital experiences. Let’s build something amazing together!" 💻✨
 
 👩‍💻 Technologies I work with:
 - HTML, CSS, JavaScript
@@ -28,7 +28,6 @@ With over 4 years of experience in building responsive and user-friendly website
 
 ## Connect with Me
 - LinkedIn: [Thapelo Boya](https://www.linkedin.com/thapeloboya)
-- Twitter: [@ThapeloBoya](https://twitter.com/ThapeloBoya) *(if applicable)*
 
 ---
 
